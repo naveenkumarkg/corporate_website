@@ -1,0 +1,7 @@
+nav a{
+    color: white !important;
+}
+
+nav .dropdown-menu .dropdown-item{
+    color: black !important;
+}
