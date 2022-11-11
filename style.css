@@ -1,7 +1,21 @@
-nav a{
+nav a {
     color: white !important;
 }
 
-nav .dropdown-menu .dropdown-item{
+nav .dropdown-menu .dropdown-item {
     color: black !important;
+}
+
+.banner_color {
+    background-color: yellowgreen;
+    color: greenyellow;
+}
+
+.banner_color h1 {
+    font-size: 63px;
+}
+
+.banner_color p {
+    font-size: 21px;
+    ;
 }
